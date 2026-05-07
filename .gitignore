@@ -1,10 +1,10 @@
 cmake-build-debug/
 cmake-build-release/
+.idea/
 
 build/
 *.swp
 *.o
-*.so
 SortingApp
 aizo1
 
