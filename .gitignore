@@ -1,0 +1,11 @@
+cmake-build-debug/
+cmake-build-release/
+
+build/
+*.swp
+*.o
+*.so
+SortingApp
+aizo1
+
+data/*.csv
